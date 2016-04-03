@@ -1,0 +1,15 @@
+C:\Users\Ademario\Desktop\COProxy-master\COGameProxy\bin\Debug\COGameProxy.dll
+C:\Users\Ademario\Desktop\COProxy-master\COGameProxy\bin\Debug\COGameProxy.pdb
+C:\Users\Ademario\Desktop\COProxy-master\COGameProxy\bin\Debug\COAPI.dll
+C:\Users\Ademario\Desktop\COProxy-master\COGameProxy\bin\Debug\COCryptography.dll
+C:\Users\Ademario\Desktop\COProxy-master\COGameProxy\bin\Debug\CONetwork.dll
+C:\Users\Ademario\Desktop\COProxy-master\COGameProxy\bin\Debug\COPacketLibrary.dll
+C:\Users\Ademario\Desktop\COProxy-master\COGameProxy\bin\Debug\ManagedOpenSsl.dll
+C:\Users\Ademario\Desktop\COProxy-master\COGameProxy\bin\Debug\ClientSocket.dll
+C:\Users\Ademario\Desktop\COProxy-master\COGameProxy\bin\Debug\COAPI.pdb
+C:\Users\Ademario\Desktop\COProxy-master\COGameProxy\bin\Debug\COCryptography.pdb
+C:\Users\Ademario\Desktop\COProxy-master\COGameProxy\bin\Debug\CONetwork.pdb
+C:\Users\Ademario\Desktop\COProxy-master\COGameProxy\bin\Debug\COPacketLibrary.pdb
+C:\Users\Ademario\Desktop\COProxy-master\COGameProxy\obj\Debug\COGameProxy.csprojResolveAssemblyReference.cache
+C:\Users\Ademario\Desktop\COProxy-master\COGameProxy\obj\Debug\COGameProxy.dll
+C:\Users\Ademario\Desktop\COProxy-master\COGameProxy\obj\Debug\COGameProxy.pdb

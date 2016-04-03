@@ -1,0 +1,8 @@
+C:\Users\Ademario\Desktop\COProxy-master\Libraries\COCryptography\bin\Debug\COCryptography.dll
+C:\Users\Ademario\Desktop\COProxy-master\Libraries\COCryptography\bin\Debug\COCryptography.pdb
+C:\Users\Ademario\Desktop\COProxy-master\Libraries\COCryptography\bin\Debug\ArcoSockets.dll
+C:\Users\Ademario\Desktop\COProxy-master\Libraries\COCryptography\bin\Debug\ClientSocket.dll
+C:\Users\Ademario\Desktop\COProxy-master\Libraries\COCryptography\bin\Debug\ManagedOpenSsl.dll
+C:\Users\Ademario\Desktop\COProxy-master\Libraries\COCryptography\obj\Debug\COCryptography.csprojResolveAssemblyReference.cache
+C:\Users\Ademario\Desktop\COProxy-master\Libraries\COCryptography\obj\Debug\COCryptography.dll
+C:\Users\Ademario\Desktop\COProxy-master\Libraries\COCryptography\obj\Debug\COCryptography.pdb

@@ -1,0 +1,13 @@
+C:\Users\Ademario\Desktop\COProxy-master\Libraries\COPacketLibrary\bin\Debug\COPacketLibrary.dll
+C:\Users\Ademario\Desktop\COProxy-master\Libraries\COPacketLibrary\bin\Debug\COPacketLibrary.pdb
+C:\Users\Ademario\Desktop\COProxy-master\Libraries\COPacketLibrary\bin\Debug\COAPI.dll
+C:\Users\Ademario\Desktop\COProxy-master\Libraries\COPacketLibrary\bin\Debug\CONetwork.dll
+C:\Users\Ademario\Desktop\COProxy-master\Libraries\COPacketLibrary\bin\Debug\ClientSocket.dll
+C:\Users\Ademario\Desktop\COProxy-master\Libraries\COPacketLibrary\bin\Debug\COCryptography.dll
+C:\Users\Ademario\Desktop\COProxy-master\Libraries\COPacketLibrary\bin\Debug\ManagedOpenSsl.dll
+C:\Users\Ademario\Desktop\COProxy-master\Libraries\COPacketLibrary\bin\Debug\COAPI.pdb
+C:\Users\Ademario\Desktop\COProxy-master\Libraries\COPacketLibrary\bin\Debug\CONetwork.pdb
+C:\Users\Ademario\Desktop\COProxy-master\Libraries\COPacketLibrary\bin\Debug\COCryptography.pdb
+C:\Users\Ademario\Desktop\COProxy-master\Libraries\COPacketLibrary\obj\Debug\COPacketLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Ademario\Desktop\COProxy-master\Libraries\COPacketLibrary\obj\Debug\COPacketLibrary.dll
+C:\Users\Ademario\Desktop\COProxy-master\Libraries\COPacketLibrary\obj\Debug\COPacketLibrary.pdb

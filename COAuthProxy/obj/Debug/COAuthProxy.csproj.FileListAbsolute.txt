@@ -1,0 +1,13 @@
+C:\Users\Ademario\Desktop\COProxy-master\COAuthProxy\bin\Debug\COAuthProxy.dll
+C:\Users\Ademario\Desktop\COProxy-master\COAuthProxy\bin\Debug\COAuthProxy.pdb
+C:\Users\Ademario\Desktop\COProxy-master\COAuthProxy\bin\Debug\ClientSocket.dll
+C:\Users\Ademario\Desktop\COProxy-master\COAuthProxy\bin\Debug\COAPI.dll
+C:\Users\Ademario\Desktop\COProxy-master\COAuthProxy\bin\Debug\COCryptography.dll
+C:\Users\Ademario\Desktop\COProxy-master\COAuthProxy\bin\Debug\CONetwork.dll
+C:\Users\Ademario\Desktop\COProxy-master\COAuthProxy\bin\Debug\ManagedOpenSsl.dll
+C:\Users\Ademario\Desktop\COProxy-master\COAuthProxy\bin\Debug\COAPI.pdb
+C:\Users\Ademario\Desktop\COProxy-master\COAuthProxy\bin\Debug\COCryptography.pdb
+C:\Users\Ademario\Desktop\COProxy-master\COAuthProxy\bin\Debug\CONetwork.pdb
+C:\Users\Ademario\Desktop\COProxy-master\COAuthProxy\obj\Debug\COAuthProxy.csprojResolveAssemblyReference.cache
+C:\Users\Ademario\Desktop\COProxy-master\COAuthProxy\obj\Debug\COAuthProxy.dll
+C:\Users\Ademario\Desktop\COProxy-master\COAuthProxy\obj\Debug\COAuthProxy.pdb

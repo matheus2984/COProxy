@@ -1,0 +1,5 @@
+C:\Users\Ademario\Desktop\COProxy-master\Libraries\CONetwork\bin\Debug\CONetwork.dll
+C:\Users\Ademario\Desktop\COProxy-master\Libraries\CONetwork\bin\Debug\CONetwork.pdb
+C:\Users\Ademario\Desktop\COProxy-master\Libraries\CONetwork\obj\Debug\CONetwork.csprojResolveAssemblyReference.cache
+C:\Users\Ademario\Desktop\COProxy-master\Libraries\CONetwork\obj\Debug\CONetwork.dll
+C:\Users\Ademario\Desktop\COProxy-master\Libraries\CONetwork\obj\Debug\CONetwork.pdb
